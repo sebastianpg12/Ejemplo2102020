@@ -1,0 +1,29 @@
+{
+  "name": "Ejemplo2102020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianpg12/Ejemplo2102020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianpg12/Ejemplo2102020/issues"
+  },
+  "homepage": "https://github.com/sebastianpg12/Ejemplo2102020#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
